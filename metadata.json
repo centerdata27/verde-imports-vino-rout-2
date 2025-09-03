@@ -1,0 +1,5 @@
+{
+  "name": "Verde Imports Vino Rout",
+  "description": "An intelligent sales route generator for wine salespeople. Verde Imports Vino Rout uses your target location to generate a curated list of potential clients, including restaurants and liquor stores, and displays them in an easy-to-manage list to track your visits and conquer your territory.",
+  "requestFramePermissions": []
+}
